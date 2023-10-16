@@ -18,3 +18,7 @@ h3 {
 .colorBlue {
   color: blue;
 }
+/*Cambia el cursor a una mano*/
+h5 {
+  cursor: pointer;
+}
